@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"part_2_cellphone","l":"CellList"},{"p":"part_2_cellphone","l":"CellListUtilization"},{"p":"part_2_cellphone","l":"CellPhone"},{"p":"part_1_subdictionary","l":"SubDictionaryDriver"}];updateSearchResults();

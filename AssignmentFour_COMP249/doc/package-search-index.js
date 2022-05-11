@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"part_1_subdictionary"},{"l":"part_2_cellphone"}];updateSearchResults();
