@@ -1,0 +1,139 @@
+body {
+  font-family: sans-serif;
+  background: url(Q4_images/background.jpeg);
+}
+
+.header {
+  margin-top: -10px;
+  margin-left: -8px;
+  margin-right: -8px;
+  padding-top: 5px;
+  background-color: rgba(51, 53, 72, 0.975);
+  font-size: 35px;
+  color: white;
+  border: 2px solid rgb(76, 79, 105);
+  white-space: nowrap;
+}
+
+.logo {
+  border: 3px solid black;
+  padding: 0 0;
+  margin-left: 15px;
+  border-radius: 10px;
+}
+
+.title {
+  padding-left: 15px;
+}
+
+.space {
+  width: 650px;
+}
+
+.timeCell {
+  font-size: 20px;
+}
+
+nav {
+  height: 100%;
+  width: 190px;
+  position: absolute;
+  top: -2.5px;
+  left: 0;
+  background-color: rgb(51, 53, 72);
+  color: white;
+  overflow-x: hidden;
+  margin-top: 102px;
+  border: 2px solid rgb(76, 79, 105);
+}
+
+.article_title {
+  text-align: center;
+}
+
+.browse_table {
+  border-collapse: separate;
+  border-spacing: 15px 25px;
+}
+
+.dog1,
+.cat1,
+.dog2,
+.cat2 {
+  margin-left: 15px;
+  line-height: 1.5;
+  font-size: small;
+  width: 200px;
+  border: 2px solid black;
+  padding: 5px 5px;
+  width: 200px;
+  margin-top: 10px;
+}
+
+.dog1_pic,
+.cat1_pic,
+.dog2_pic,
+.cat2_pic {
+  border: none;
+  padding-left: 15px;
+}
+
+.beagle_pic,
+.siamese_pic,
+.golden_pic,
+.maine_pic {
+  border: 2px solid black;
+  width: 250px;
+}
+
+.btn {
+  text-align: center;
+  padding-left: 15px;
+}
+
+nav a {
+  padding: 10px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+  display: block;
+  border-bottom: 2px solid rgb(76, 79, 105);
+}
+
+nav a:active,
+nav a:hover {
+  color: rgb(0, 175, 175);
+}
+
+article {
+  margin-left: 190px;
+  position: relative;
+  background-color: white;
+  border: 2px solid rgb(76, 79, 105);
+  padding: 15px 15px;
+}
+
+article p {
+  font-size: 18px;
+}
+
+footer {
+  margin-left: -7px;
+  border: 2px solid rgb(76, 79, 105);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 45px;
+  background-color: rgba(76, 76, 76, 0.95);
+  text-align: center;
+  color: white;
+}
+
+.privacy a {
+  color: white;
+  margin-left: 15px;
+}
+
+.content {
+  margin: auto auto;
+}
